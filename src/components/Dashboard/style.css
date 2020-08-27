@@ -1,0 +1,11 @@
+.card {
+    max-height: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.container {
+    margin-top: 100px !important;
+}
